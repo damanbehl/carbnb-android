@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="car_types">
+        <item>ALL</item>
+        <item>SUV</item>
+        <item>PICKUP</item>
+        <item>SEDAN</item>
+    </string-array>
+    <string-array name="sort_types">
+        <item>Name - A to Z</item>
+        <item>Name - Z to A</item>
+        <item>Price - Low to High</item>
+        <item>Price - High to Low</item>
+    </string-array>
+</resources>

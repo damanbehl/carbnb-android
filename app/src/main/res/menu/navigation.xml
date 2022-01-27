@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:title="@string/home"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/action_cars"
+        android:enabled="true"
+        android:title="@string/cars"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/action_login"
+        android:enabled="true"
+        android:title="@string/user"
+        app:showAsAction="withText" />
+    <item
+        android:id="@+id/action_orders"
+        android:enabled="true"
+        android:title="@string/orders"
+        app:showAsAction="withText" />
+</menu>

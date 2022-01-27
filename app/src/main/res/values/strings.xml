@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Carbnb</string>
+    <string name="car_image">Image of the car model</string>
+    <string name="insurance_image">Image of the insurance brand</string>
+    <string name="learn_more">Learn More</string>
+    <string name="read_more">Read More</string>
+    <string name="select">Select</string>
+    <string name="image_chooser">Image Number</string>
+    <string name="image_1">1</string>
+    <string name="image_2">2</string>
+    <string name="image_3">3</string>
+    <string name="image_4">4</string>
+    <string name="rent_car">Rent Car</string>
+    <string name="sign_in">Click to start sign in flow</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="cancel">Cancel</string>
+
+    <string name="client_id">334459614551-utak3bfb0qcopnlpf7lh7esqv6g1emh8.apps.googleusercontent.com</string>
+
+    <string name="name">Name:</string>
+    <string name="email">E-Mail:</string>
+    <string name="uid">UID:</string>
+
+    <string name="card_number">Card Number</string>
+    <string name="cvv">CVV</string>
+    <string name="expiry_date">Expiry Date</string>
+    <string name="card_holder">Card Holder</string>
+    <string name="validate">Validate</string>
+
+    <string name="rent_car_again">Rent Again</string>
+    <string name="cars">Cars</string>
+    <string name="orders">Orders</string>
+    <string name="user">User</string>
+    <string name="view_order_history">View Order History</string>
+    <string name="home">Home</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+</resources>
